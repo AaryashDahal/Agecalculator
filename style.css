@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+
+}
+
+input{
+    height: 50px;
+    width: 400px;
+    
+   border:2px solidblack;
+    margin: auto;
+
+}
+
+button{
+
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px solid black;
+    margin-top: 10px;
+
+
+}
